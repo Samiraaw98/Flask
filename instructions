@@ -1,0 +1,5 @@
+between the following integers
+-100 - +100
+print out the second highest score in the array 
+function is gonna recieve an array between -100 to +100
+you need to find and return second highest number in that array 
